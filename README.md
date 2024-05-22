@@ -14,7 +14,7 @@ I'm a data scientist and data engineer working in the field of environmental lif
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg" width="36" height="36" alt="Rust" />Rust</a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />Bash</a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" />FastAPI</a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />FLask</a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />Flask</a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />Linux</a>
 </p>
   <h2>Databases</h2>
@@ -39,8 +39,8 @@ I'm a data scientist and data engineer working in the field of environmental lif
 <h2>Other</h2>
 <p>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="docker-logo-blue.svg" height="36" width="72" alt="Docker"/></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-  <a href=''><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm.png" alt="PyCharm logo." height="36" width="108"></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />Raspberry Pi</a>
+  <a href='https://www.jetbrains.com/pycharm/'><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm.png" alt="PyCharm logo." height="36" width="108"></a>
 </p>
                     
 
