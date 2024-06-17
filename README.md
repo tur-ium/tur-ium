@@ -1,7 +1,7 @@
 ## Hi there I'm tur-ium 👋
-I'm a data scientist and data engineer working in the field of environmental life cycle assessment.
+I'm a data scientist working in the field of environmental life cycle assessment.
 
-- 🌱 I’m currently learning **data engineering**, with a focus on building scalable data tools to empower decision making on environmental and social issues.
+- 🌱 I’m currently studying **data engineering**, with a focus on building scalable data tools to empower decision making on environmental and social issues.
 - 👯 I’m looking to collaborate on environmentally and socially positive projects
 - 💬 Ask me about: Life Cycle Assessment, languages (human, or machine) and global justice
 - 😄 Pronouns: They/them
