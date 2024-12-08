@@ -3,8 +3,7 @@ I'm a data scientist working in the field of environmental life cycle assessment
 
 - 🌱 I’m currently studying **data engineering**, with a focus on building scalable data tools to empower decision making on environmental and social issues.
 - 👯 I’m looking to collaborate on environmentally and socially positive projects
-- 💬 Ask me about: Life Cycle Assessment, languages (human, or machine) and global justice
-- 😄 Pronouns: They/them
+- 💬 Ask me about: Life Cycle Assessment, languages (human, or machine)
 
 <h1>Skills</h1>
 <h2>Languages/Tools</h2>
